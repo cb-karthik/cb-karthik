@@ -23,3 +23,9 @@
 &#9745;Java Script<br>
 &#9745;React JS<br>
 &#9745;Tailwind CSS<br>
+
+# Tools / platforms 
+:white_check_mark:NPM<br>
+:white_check_mark:Vercel<br>
+:white_check_mark:Netlify<br>
+:white_check_mark:Firebase<br>
