@@ -3,7 +3,7 @@
 
 
 ## About Me
-  Frontend developer with a passion for React.js. I love building captivating user experiences and crafting dynamic web applications. When I'm not coding, you'll find me lost in a good book.
+  Frontend developer with a passion for React.js. I love building captivating user experiences and crafting dynamic web applications. When I'm not coding, you'll find me lost in a good book:orange_book:.
 
 ## 
 👩‍💻 I'm currently building: Westeros-Sagas of Fire and Ice.
@@ -19,9 +19,7 @@
 
 ## 🛠 Skills
 &#9745;HTML<br>
-CSS
-Java Script
-React Js
-Tailwind CSS
-Bootstrap
-
+&#9745;CSS<br>
+&#9745;Java Script<br>
+&#9745;React JS<br>
+&#9745;Tailwind CSS<br>
