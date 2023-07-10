@@ -24,7 +24,7 @@
 &#9745;React JS<br>
 &#9745;Tailwind CSS<br>
 
-# Tools / platforms 
+ Tools / platforms 
 :white_check_mark:NPM<br>
 :white_check_mark:Vercel<br>
 :white_check_mark:Netlify<br>
