@@ -18,7 +18,7 @@
 
 
 ## 🛠 Skills
--->HTML<br>
+&#9745;HTML<br>
 CSS
 Java Script
 React Js
