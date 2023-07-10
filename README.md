@@ -3,11 +3,12 @@
 
 
 ## About Me
-  Frontend developer with a passion for <strong>React.js</strong>:blue_heart:.<br> I love building captivating user experiences and crafting dynamic web applications:green_heart:.<br> When I'm not coding:exclamation::exclamation:, you'll find me lost in a good book:orange_book:.
+   Frontend developer with a passion for <strong>React.js</strong>:blue_heart:.<br> I love building captivating user experiences and crafting dynamic web applications:green_heart:.<br> When I'm not coding:exclamation::exclamation:, you'll find me lost in a good book:orange_book:.
 
 ## 
-👩‍💻 I'm currently building: Westeros-Sagas of Fire and Ice.<br>
-🧠 I'm currently learning: Advanced frontend development.
+♦ 👩‍💻 I'm currently building: Westeros-Sagas of Fire and Ice.<br>
+♦ 🧠 I'm currently learning: Advanced frontend development.
+♦ 🔭 I’m currently looking for frontend jobs and am also open for exciting project ideas.
 
 
 ## 🚀 Reach me via
