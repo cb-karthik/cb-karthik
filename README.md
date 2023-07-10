@@ -8,7 +8,7 @@
 ## 
  👩‍💻 I'm currently building: Westeros-Sagas of Fire and Ice.<br>
  🧠 I'm currently learning: Advanced frontend development.<br>
- 🔭 I’m currently looking for frontend jobs and am also open for exciting project ideas.<br>
+ 🔭 I’m currently <strong>looking for frontend jobs </strong> and am also open for exciting project ideas.<br>
 
 
 ## 🚀 Reach me via
