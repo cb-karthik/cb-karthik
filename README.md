@@ -3,7 +3,7 @@
 
 
 ## About Me
-  PhD Scholar ❄️ | Glacier Geek 🏔️ | Code Junkie 💻 | Turning ice into data & dreams into code! 🧊✨ 🌎  | #GIS, #Remotesensing,#glaciers.<br> When I'm not coding:exclamation::exclamation:, you'll find me lost in a good book:orange_book:.
+  PhD Scholar ❄️ | Glacier Geek 🏔️ | Code Junkie 💻 | Turning ice into data & dreams into code! 🧊✨ 🌎  | #GIS, #Remotesensing,#glaciers.<br> When I'm not coding?, you'll find me lost in a good book!!.
 
 ## 
  open for exciting project ideas.<br>
