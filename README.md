@@ -3,12 +3,10 @@
 
 
 ## About Me
-   Frontend developer with a passion for <strong>React.js</strong>:blue_heart:.<br> I love building captivating user experiences and crafting dynamic web applications:green_heart:.<br> When I'm not coding:exclamation::exclamation:, you'll find me lost in a good book:orange_book:.
+  PhD Scholar ❄️ | Glacier Geek 🏔️ | Code Junkie 💻 | Turning ice into data & dreams into code! 🧊✨ 🌎  | #GIS, #Remotesensing,#glaciers.<br> When I'm not coding:exclamation::exclamation:, you'll find me lost in a good book:orange_book:.
 
 ## 
- 👩‍💻 I'm currently building: Westeros-Sagas of Fire and Ice.<br>
- 🧠 I'm currently learning: Advanced frontend development.<br>
- 🔭 I’m currently <strong>looking for frontend jobs </strong> and am also open for exciting project ideas.<br>
+ open for exciting project ideas.<br>
 
 
 ## 🚀 Reach me via
